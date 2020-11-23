@@ -8,69 +8,69 @@
   "tvOS" : [
     {
       "name" : "FBSDKCoreKit",
-      "hash" : "46d0ce9e76469b19b17857e1f66c61d7d5f582b62e6ca39e4543f856586735be",
+      "hash" : "02c4ebeeb35da455b5044dfdc41f9dd6bcd54d8d727a4a74a8a02ad755b92815",
       "linking" : "dynamic"
     },
     {
       "name" : "FBSDKLoginKit",
-      "hash" : "73895863587d6749ea75994e5dde3d94dadb4eb6c62e3d40990c7a7eb22545b2",
+      "hash" : "3dbd128f8deb8a72d3b57c6eb6a15ff27b382cb308d19bb5fa2357f5000a6eaa",
       "linking" : "dynamic"
     },
     {
       "name" : "FBSDKShareKit",
-      "hash" : "015bb1323f75900d40582d98ddb4d83e48e797a7bff0f2301749a930549fa158",
+      "hash" : "c630bb61002e0acdcf984d96c9f527c1dce058fbbcf1559380c3a8ab84ab1cb2",
       "linking" : "dynamic"
     },
     {
       "name" : "FBSDKTVOSKit",
-      "hash" : "02bc9417e52abc9cc49ffd1ac6eb60f2baa312f57731aebfb609b67b21854b4c",
+      "hash" : "b4ef8de788b7240f4dc7f222bd8220c38c77507ff9289b72f9c4daaf114f82d8",
       "linking" : "dynamic"
     }
   ],
   "commitish" : "v8.2.0",
   "iOS" : [
     {
-      "hash" : "2ab206f5bf665fbcc35097ae6aba43238b107f3d075dae8d52c0d313cdeb1894",
+      "hash" : "2b428fa2775a470065c2f52f392cbe9985168bc4dddd17882297e58455c8852d",
       "name" : "FBSDKCoreKit",
       "linking" : "dynamic",
       "swiftToolchainVersion" : "5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
     },
     {
-      "hash" : "2a2746a4a1cfa67defe6ac8e45ce6b9cdbad23867484074b0ec2becbf82aa40a",
+      "hash" : "3efa4cafa80d92b54c9921738abc881e79837e587be68af96e7257d813ec6408",
       "name" : "FBSDKCoreKit",
       "linking" : "static",
       "swiftToolchainVersion" : "5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
     },
     {
       "name" : "FBSDKGamingServicesKit",
-      "hash" : "fc2193255b597ae45ee83a702922b109ffaa851f24d114758e16d6d8e15523e1",
+      "hash" : "d341b36c829b98fec865921ba1d0ae90a9f7e8605a6a26dabd035ab2c5e383e7",
       "linking" : "dynamic"
     },
     {
       "name" : "FBSDKGamingServicesKit",
-      "hash" : "1a2e789402f8a2cf3d3a0276ef9f911cd59b350b23fd20959c661eb0f518bf02",
+      "hash" : "1423ae8c55d25e6feb778c90ab44973e0f4c6f461b64011a3fa70952209a02c8",
       "linking" : "static"
     },
     {
-      "hash" : "de5e8369cba33ecb8d1380ec9827ba3e823d04006856a31de86884091b8a2734",
+      "hash" : "3847873cfb302336a24d1efe7e0d052e924c4751496ead76b96b80fb70c093b6",
       "name" : "FBSDKLoginKit",
       "linking" : "dynamic",
       "swiftToolchainVersion" : "5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
     },
     {
-      "hash" : "96a51aa5db454c45e7bbe690dd01dc02b96fbedf94e141d10af11cb07a26c254",
+      "hash" : "81ca6c03a8f55b768b4d0587463bc700ecaed35452b4acc9596455b170a482e6",
       "name" : "FBSDKLoginKit",
       "linking" : "static",
       "swiftToolchainVersion" : "5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
     },
     {
-      "hash" : "7daccb176f0915333f21fe03e14e7fede799964f00c69be330c47fd63a76f8eb",
+      "hash" : "7a53b02755dc7e038beeb5ff4e94cc1b29daa4689a710076defab936106942e9",
       "name" : "FBSDKShareKit",
       "linking" : "dynamic",
       "swiftToolchainVersion" : "5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
     },
     {
-      "hash" : "19c3e25dc2a4234f710ade62e785febc7021a4a78b7a2f611dd89376fe17e790",
+      "hash" : "9e3ee336c98bced86bda04c166db93106a21b2fdb2e539f3766e13fa74dd5837",
       "name" : "FBSDKShareKit",
       "linking" : "static",
       "swiftToolchainVersion" : "5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
