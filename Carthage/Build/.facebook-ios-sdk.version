@@ -1,0 +1,79 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+    {
+      "name" : "FBSDKCoreKit",
+      "hash" : "02c4ebeeb35da455b5044dfdc41f9dd6bcd54d8d727a4a74a8a02ad755b92815",
+      "linking" : "dynamic"
+    },
+    {
+      "name" : "FBSDKLoginKit",
+      "hash" : "3dbd128f8deb8a72d3b57c6eb6a15ff27b382cb308d19bb5fa2357f5000a6eaa",
+      "linking" : "dynamic"
+    },
+    {
+      "name" : "FBSDKShareKit",
+      "hash" : "c630bb61002e0acdcf984d96c9f527c1dce058fbbcf1559380c3a8ab84ab1cb2",
+      "linking" : "dynamic"
+    },
+    {
+      "name" : "FBSDKTVOSKit",
+      "hash" : "b4ef8de788b7240f4dc7f222bd8220c38c77507ff9289b72f9c4daaf114f82d8",
+      "linking" : "dynamic"
+    }
+  ],
+  "commitish" : "v8.2.0",
+  "iOS" : [
+    {
+      "hash" : "2b428fa2775a470065c2f52f392cbe9985168bc4dddd17882297e58455c8852d",
+      "name" : "FBSDKCoreKit",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+    },
+    {
+      "hash" : "3efa4cafa80d92b54c9921738abc881e79837e587be68af96e7257d813ec6408",
+      "name" : "FBSDKCoreKit",
+      "linking" : "static",
+      "swiftToolchainVersion" : "5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+    },
+    {
+      "name" : "FBSDKGamingServicesKit",
+      "hash" : "d341b36c829b98fec865921ba1d0ae90a9f7e8605a6a26dabd035ab2c5e383e7",
+      "linking" : "dynamic"
+    },
+    {
+      "name" : "FBSDKGamingServicesKit",
+      "hash" : "1423ae8c55d25e6feb778c90ab44973e0f4c6f461b64011a3fa70952209a02c8",
+      "linking" : "static"
+    },
+    {
+      "hash" : "3847873cfb302336a24d1efe7e0d052e924c4751496ead76b96b80fb70c093b6",
+      "name" : "FBSDKLoginKit",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+    },
+    {
+      "hash" : "81ca6c03a8f55b768b4d0587463bc700ecaed35452b4acc9596455b170a482e6",
+      "name" : "FBSDKLoginKit",
+      "linking" : "static",
+      "swiftToolchainVersion" : "5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+    },
+    {
+      "hash" : "7a53b02755dc7e038beeb5ff4e94cc1b29daa4689a710076defab936106942e9",
+      "name" : "FBSDKShareKit",
+      "linking" : "dynamic",
+      "swiftToolchainVersion" : "5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+    },
+    {
+      "hash" : "9e3ee336c98bced86bda04c166db93106a21b2fdb2e539f3766e13fa74dd5837",
+      "name" : "FBSDKShareKit",
+      "linking" : "static",
+      "swiftToolchainVersion" : "5.3.1 (swiftlang-1200.0.41 clang-1200.0.32.8)"
+    }
+  ]
+}
